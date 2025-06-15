@@ -1,0 +1,1 @@
+﻿// Bir tamsayı dizisi verildiğinde, dizideki en küçük elemanı bulun.

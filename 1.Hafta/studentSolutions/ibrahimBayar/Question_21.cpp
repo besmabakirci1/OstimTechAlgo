@@ -1,0 +1,2 @@
+﻿// Scenario 1
+// Kullanıcıdan alınan sensör verisi dizisinde bazı değerler eksik (None olarak verilmiş). Eksik olan verileri, komşu iki değer arasında doğrusal enterpolasyon yöntemiyle hesaplayarak doldurunuz.

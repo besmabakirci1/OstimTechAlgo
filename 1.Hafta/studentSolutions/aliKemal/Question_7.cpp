@@ -1,0 +1,1 @@
+﻿// Bir dizinin palindrom olup olmadığını kontrol edin

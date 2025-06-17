@@ -1,0 +1,1 @@
+﻿// Kullanıcıdan alınan bir dizi için tüm alt dizileri (subarray) üretin.

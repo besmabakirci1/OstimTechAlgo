@@ -1,0 +1,1 @@
+﻿// Verilen bir dizideki ardışık olarak artan en uzun alt diziyi bulun.

@@ -15,7 +15,7 @@ Bu çalışmanın temel amacı:
 ![yol haritamız:](https://github.com/user-attachments/assets/e10c7f87-76fd-413b-a43a-220aa6ca1ac9)
 
 ## Up to date
-- Dizilerin konu anlatımı için, Docs dosyası içerisindeki 15-Arrays.pdf dosyasından yararlanabilirsiniz.
+- Dizilerin konu anlatımı için, Docs dosyası içerisindeki Arrays.pdf dosyasından yararlanabilirsiniz.
 - Docs dosyası içindeki veriYapıları adlı kaynak;
 veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için yararlanılacaktır.
 Dizilerden sonra bağlı listelere geçilecektir.

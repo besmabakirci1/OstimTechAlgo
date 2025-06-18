@@ -1,4 +1,5 @@
 // Bir dizinin tüm elemanlarını ekrana yazdıran bir fonksiyon yazın.
+
 #include <stdio.h>
 
 void printArray(int arr[], int n){

@@ -1,4 +1,5 @@
 // Bir dizide belirli bir sayının kaç kere geçtiğini bulun.
+
 #include <stdio.h>
 
 int countOccurrences(int arr[], int n, int x) {

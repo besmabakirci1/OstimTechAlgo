@@ -1,4 +1,5 @@
 // 	Bir dizideki tüm elemanların toplamını hesaplayın.
+
 #include <stdio.h>
 
 void sumInt(int arr[], int n){

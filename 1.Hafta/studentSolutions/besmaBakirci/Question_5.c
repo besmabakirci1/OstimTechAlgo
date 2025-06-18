@@ -1,5 +1,5 @@
 // Verilen bir dizideki çift sayıların ortalamasını hesaplayın.
-///bence verilen bir array olacak onun her elemanını gezip içindeki elemanların % ( modu ) == 0 ise çift değilse tek demesi ve çift olarak saptadığı elemanları bir array oluşturup onlara atayıp sonra elemanları toplayıp adete bölmeli sonrasında return 0 diyip kodu durdurması lazım. 
+///Çözüm yöntemim: verilen bir array olacak onun her elemanını gezip içindeki elemanların % ( modu ) == 0 ise çift değilse tek demesi ve çift olarak saptadığı elemanları bir array oluşturup onlara atayıp sonra elemanları toplayıp adete bölmeli sonrasında return 0 diyip kodu durdurması lazım. 
 
 #include <stdio.h> 
 

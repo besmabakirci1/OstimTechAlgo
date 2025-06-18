@@ -1,0 +1,1 @@
+// Verilen bir dizide ardışık toplamı belirli bir sayıya eşit olan alt diziyi (subarray) bulun.

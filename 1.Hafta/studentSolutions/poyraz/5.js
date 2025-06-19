@@ -1,0 +1,1 @@
+// Verilen bir dizideki çift sayıların ortalamasını hesaplayın.

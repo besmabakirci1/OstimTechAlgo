@@ -1,0 +1,1 @@
+// Bir dizinin tüm elemanlarını ekrana yazdıran bir fonksiyon yazın.

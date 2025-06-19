@@ -1,0 +1,1 @@
+// Kullanıcıdan alınan bir dizinin palindrom olup olmadığını kontrol edin.

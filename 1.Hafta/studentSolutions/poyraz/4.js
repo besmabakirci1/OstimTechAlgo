@@ -1,0 +1,1 @@
+// Bir dizide belirli bir sayının kaç kere geçtiğini bulun.

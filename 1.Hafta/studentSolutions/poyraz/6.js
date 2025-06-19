@@ -1,0 +1,1 @@
+// Bir dizi verildiğinde, dizideki tüm elemanları ters çevirin (reverse).

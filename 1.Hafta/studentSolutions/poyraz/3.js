@@ -1,0 +1,1 @@
+// Bir dizideki tüm elemanların toplamını hesaplayın.

@@ -1,0 +1,1 @@
+// Kullanıcıdan alınan sıfırları sona alarak, diğer elemanların yerini değiştirmeden yeni bir dizi oluşturun.

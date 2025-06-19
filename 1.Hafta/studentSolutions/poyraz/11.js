@@ -1,0 +1,1 @@
+// Bir dizide en büyük ikinci elemanı bulun.

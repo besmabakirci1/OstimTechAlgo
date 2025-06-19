@@ -1,0 +1,1 @@
+// Verilen bir diziden negatif sayıları çıkarıp, sadece pozitifleri içeren yeni bir dizi oluşturun.

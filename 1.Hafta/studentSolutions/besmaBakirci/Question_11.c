@@ -1,1 +1,2 @@
-//	11	Bir dizide en büyük ikinci elemanı bulun.
+// Bir dizide en büyük ikinci elemanı bulun.
+/// 

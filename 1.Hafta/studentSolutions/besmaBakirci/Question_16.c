@@ -1,1 +1,1 @@
-//Bir dizideki elemanları döndürerek (rotate) belirli bir sayıda sola veya sağa kaydırın.
+// Bir dizideki elemanları döndürerek (rotate) belirli bir sayıda sola veya sağa kaydırın.

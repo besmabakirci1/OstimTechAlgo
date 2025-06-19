@@ -15,7 +15,7 @@ int main(void){
 
     printf("Please enter %d elements for first array:\n ", n1);
     for(int i = 0 ; i < n1; i++){
-        scanf("%d", &arr1[n1]);
+        scanf("%d", &arr1[i]);
         mergedArray[i] = arr1[i];
     }
     

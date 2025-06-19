@@ -1,0 +1,1 @@
+// Verilen bir dizide elemanların frekansını (kaç kez geçtiğini) bir sözlük şeklinde çıkarın.

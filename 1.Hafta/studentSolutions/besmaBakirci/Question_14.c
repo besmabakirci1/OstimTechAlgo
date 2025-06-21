@@ -1,3 +1,8 @@
+/// Sliding Window Approach | Longest Continuous Increasing Subsequence
+/// https://www.youtube.com/watch?v=jTXMlw9vlVU
+/// https://www.youtube.com/watch?v=Sevm1tcCjk
+/// https://youtu.be/fV-TF4OvZpk?si=NBv-w3Qq5UTkYpnM
+
 // Verilen bir dizideki ardışık olarak artan en uzun alt diziyi bulun.
 
 #include <stdio.h>

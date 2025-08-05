@@ -1,5 +1,5 @@
 // Bir dizideki elemanları döndürerek (rotate) belirli bir sayıda sola veya sağa kaydırın.
-
+///Diziyi k birim sola döndürme, ters çevirme algoritması kullanılabilir
 #include <stdio.h>
 #define SIZE 7
 

@@ -4,6 +4,8 @@
 /// https://youtu.be/fV-TF4OvZpk?si=NBv-w3Qq5UTkYpnM
 
 // Verilen bir dizideki ardışık olarak artan en uzun alt diziyi bulun.
+/// saf özyineleme (pure recursion), brute-force kaba kuvvet yöntemi ile çözüm
+
 
 #include <stdio.h>
 #define SIZE 7
